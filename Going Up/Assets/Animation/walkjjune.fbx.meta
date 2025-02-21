@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 797bf1ae5c4e8e34f8e93fd9b56a7f06
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Reference_copy|Action.001' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'RightUpLeg' has translation
+      animation that will be discarded.\n\t'RightLeg' has translation animation that
+      will be discarded.\n\t'RightFoot' has translation animation that will be discarded.\n\t'RightToeBase'
+      has translation animation that will be discarded.\n\t'LeftUpLeg' has translation
+      animation that will be discarded.\n\t'LeftLeg' has translation animation that
+      will be discarded.\n\t'LeftFoot' has translation animation that will be discarded.\n\t'LeftToeBase'
+      has translation animation that will be discarded.\n\t'Spine' has translation
+      animation that will be discarded.\n\t'Spine1' has translation animation that
+      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Spine3' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'LeftShoulder'
+      has translation animation that will be discarded.\n\t'LeftArm' has translation
+      animation that will be discarded.\n\t'LeftForeArm' has translation animation
+      that will be discarded.\n\t'LeftHand' has translation animation that will be
+      discarded.\n\t'RightShoulder' has translation animation that will be discarded.\n\t'RightArm'
+      has translation animation that will be discarded.\n\t'RightForeArm' has translation
+      animation that will be discarded.\n\t'RightHand' has translation animation
+      that will be discarded.\n\t'Neck' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\nClip 'Reference_copy|Reference.001|20200218_SAI_AD-GDC_S10_NavCombJog_T1-X012_Animat'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'RightUpLeg'
+      has translation animation that will be discarded.\n\t'RightLeg' has translation
+      animation that will be discarded.\n\t'RightFoot' has translation animation
+      that will be discarded.\n\t'LeftUpLeg' has translation animation that will
+      be discarded.\n\t'LeftLeg' has translation animation that will be discarded.\n\t'LeftFoot'
+      has translation animation that will be discarded.\n\t'Spine1' has translation
+      animation that will be discarded.\n\t'Spine2' has translation animation that
+      will be discarded.\n\t'Spine3' has translation animation that will be discarded.\n\t'Spine3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'LeftShoulder'
+      has translation animation that will be discarded.\n\t'LeftArm' has translation
+      animation that will be discarded.\n\t'LeftForeArm' has translation animation
+      that will be discarded.\n\t'LeftHand' has translation animation that will be
+      discarded.\n\t'RightShoulder' has translation animation that will be discarded.\n\t'RightArm'
+      has translation animation that will be discarded.\n\t'RightForeArm' has translation
+      animation that will be discarded.\n\t'RightHand' has translation animation
+      that will be discarded.\n\t'Neck' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n\nClip 'Reference_copy|Reference|20200218_SAI_AD-GDC_S4_NavNormWalkSlow_T1-X004_Animat'
+      has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'RightUpLeg'
+      has translation animation that will be discarded.\n\t'RightLeg' has translation
+      animation that will be discarded.\n\t'RightFoot' has translation animation
+      that will be discarded.\n\t'RightToeBase' has translation animation that will
+      be discarded.\n\t'LeftUpLeg' has translation animation that will be discarded.\n\t'LeftLeg'
+      has translation animation that will be discarded.\n\t'LeftFoot' has translation
+      animation that will be discarded.\n\t'LeftToeBase' has translation animation
+      that will be discarded.\n\t'Spine' has translation animation that will be discarded.\n\t'Spine1'
+      has translation animation that will be discarded.\n\t'Spine2' has translation
+      animation that will be discarded.\n\t'Spine3' has translation animation that
+      will be discarded.\n\t'Spine3' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'LeftShoulder' has translation animation
+      that will be discarded.\n\t'LeftArm' has translation animation that will be
+      discarded.\n\t'LeftForeArm' has translation animation that will be discarded.\n\t'LeftHand'
+      has translation animation that will be discarded.\n\t'RightShoulder' has translation
+      animation that will be discarded.\n\t'RightArm' has translation animation that
+      will be discarded.\n\t'RightForeArm' has translation animation that will be
+      discarded.\n\t'RightHand' has translation animation that will be discarded.\n\t'Neck'
+      has translation animation that will be discarded.\n\t'Head' has translation
+      animation that will be discarded.\n\nClip 'Reference_copy|WalkJune' has import
+      animation warnings that might lower retargeting quality:\nNote: Activate translation
+      DOF on avatar to improve retargeting quality.\n\t'RightUpLeg' has translation
+      animation that will be discarded.\n\t'RightLeg' has translation animation that
+      will be discarded.\n\t'RightFoot' has translation animation that will be discarded.\n\t'RightToeBase'
+      has translation animation that will be discarded.\n\t'LeftUpLeg' has translation
+      animation that will be discarded.\n\t'LeftLeg' has translation animation that
+      will be discarded.\n\t'LeftFoot' has translation animation that will be discarded.\n\t'LeftToeBase'
+      has translation animation that will be discarded.\n\t'Spine' has translation
+      animation that will be discarded.\n\t'Spine1' has translation animation that
+      will be discarded.\n\t'Spine2' has translation animation that will be discarded.\n\t'Spine3'
+      has translation animation that will be discarded.\n\t'Spine3' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'LeftShoulder'
+      has translation animation that will be discarded.\n\t'LeftArm' has translation
+      animation that will be discarded.\n\t'LeftForeArm' has translation animation
+      that will be discarded.\n\t'LeftHand' has translation animation that will be
+      discarded.\n\t'RightShoulder' has translation animation that will be discarded.\n\t'RightArm'
+      has translation animation that will be discarded.\n\t'RightForeArm' has translation
+      animation that will be discarded.\n\t'RightHand' has translation animation
+      that will be discarded.\n\t'Neck' has translation animation that will be discarded.\n\t'Head'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Reference_copy|Action
+      takeName: Reference_copy|Action
+      internalID: 2623015580689967977
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reference_copy|Action.001
+      takeName: Reference_copy|Action.001
+      internalID: -4541270917836946954
+      firstFrame: 0
+      lastFrame: 1499
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reference_copy|Reference.001|20200218_SAI_AD-GDC_S10_NavCombJog_T1-X012_Animat
+      takeName: Reference_copy|Reference.001|20200218_SAI_AD-GDC_S10_NavCombJog_T1-X012_Animat
+      internalID: 1202926845058629984
+      firstFrame: 0
+      lastFrame: 808
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Reference_copy|Reference|20200218_SAI_AD-GDC_S4_NavNormWalkSlow_T1-X004_Animat
+      takeName: Reference_copy|Reference|20200218_SAI_AD-GDC_S4_NavNormWalkSlow_T1-X004_Animat
+      internalID: 3609093542909186282
+      firstFrame: 0
+      lastFrame: 1543
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkJune
+      takeName: Reference_copy|WalkJune
+      internalID: 8994318785185004099
+      firstFrame: 0
+      lastFrame: 1543
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine.005_RSL_RETARGET
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Prop1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Prop1_end
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R_RSL_RETARGET
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: hand.R_RSL_RETARGET_end
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: walkjjune(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reference_copy
+      parentName: walkjjune(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
+      scale: {x: 0.017112942, y: 0.017112942, z: 0.017112942}
+    - name: Hips
+      parentName: Reference_copy
+      position: {x: -0, y: 91.14592, z: -4.5474735e-13}
+      rotation: {x: -3.5527137e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightUpLeg
+      parentName: Hips
+      position: {x: 7.978616, y: 0.020698547, z: -0.0023008059}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightLeg
+      parentName: RightUpLeg
+      position: {x: -0, y: -41.19994, z: -0.0018948447}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightFoot
+      parentName: RightLeg
+      position: {x: -0, y: -40.18883, z: -0.003193303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightToeBase
+      parentName: RightFoot
+      position: {x: -0, y: -7.9390335, z: 18.143219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: toe.R_RSL_RETARGET
+      parentName: RightToeBase
+      position: {x: 9.420717, y: -0.65068054, z: -1.5531979}
+      rotation: {x: -0.00000009415697, y: 0.7071068, z: 0.7071067, w: -0.00000009415696}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: toe.R_RSL_RETARGET_end
+      parentName: toe.R_RSL_RETARGET
+      position: {x: -0, y: 11.930971, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot.R_RSL_RETARGET
+      parentName: RightFoot
+      position: {x: 6.4793143, y: 2.101637, z: -2.1965058}
+      rotation: {x: 0.8627243, y: 0.062199794, z: -0.027452517, w: 0.50108325}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+    - name: foot.R_RSL_RETARGET_end
+      parentName: foot.R_RSL_RETARGET
+      position: {x: -0, y: 21.814913, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shin.R_RSL_RETARGET
+      parentName: RightLeg
+      position: {x: 4.744082, y: 4.752056, z: -2.4151568}
+      rotation: {x: 0.99979, y: 0.020245213, z: 0.0020094935, w: 0.0024724994}
+      scale: {x: 1.0000006, y: 1, z: 1}
+    - name: shin.R_RSL_RETARGET_end
+      parentName: shin.R_RSL_RETARGET
+      position: {x: -0, y: 42.87492, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.R_RSL_RETARGET
+      parentName: RightUpLeg
+      position: {x: 5.41981, y: 6.1332016, z: -2.1992402}
+      rotation: {x: 0.99996424, y: -0.007937468, z: 0.0014475285, w: -0.0025458804}
+      scale: {x: 1.0000001, y: 0.9999998, z: 1}
+    - name: thigh.R_RSL_RETARGET_end
+      parentName: thigh.R_RSL_RETARGET
+      position: {x: -0, y: 42.58701, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftUpLeg
+      parentName: Hips
+      position: {x: -7.978616, y: 0.01852417, z: -0.0020593891}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftLeg
+      parentName: LeftUpLeg
+      position: {x: -0, y: -41.19995, z: -0.0018948445}
+      rotation: {x: -1.0587913e-22, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: LeftFoot
+      parentName: LeftLeg
+      position: {x: -0, y: -40.188828, z: -0.003193303}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftToeBase
+      parentName: LeftFoot
+      position: {x: -0, y: -7.939038, z: 18.143219}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: toe.L_RSL_RETARGET
+      parentName: LeftToeBase
+      position: {x: -9.420717, y: -0.64849854, z: -1.5534401}
+      rotation: {x: 0.00000009415697, y: 0.7071068, z: 0.7071067, w: 0.00000009415696}
+      scale: {x: 1, y: 0.9999997, z: 1}
+    - name: toe.L_RSL_RETARGET_end
+      parentName: toe.L_RSL_RETARGET
+      position: {x: -0, y: 11.930971, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: foot.L_RSL_RETARGET
+      parentName: LeftFoot
+      position: {x: -6.4793143, y: 2.103815, z: -2.1967473}
+      rotation: {x: 0.8627243, y: -0.06220011, z: 0.027451968, w: 0.50108314}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: foot.L_RSL_RETARGET_end
+      parentName: foot.L_RSL_RETARGET
+      position: {x: -0, y: 21.814913, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shin.L_RSL_RETARGET
+      parentName: LeftLeg
+      position: {x: -4.7339845, y: 4.754238, z: -2.4153984}
+      rotation: {x: 0.9997875, y: -0.020362906, z: -0.0020333126, w: 0.0024717832}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: shin.L_RSL_RETARGET_end
+      parentName: shin.L_RSL_RETARGET
+      position: {x: -0, y: 42.875328, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: thigh.L_RSL_RETARGET
+      parentName: LeftUpLeg
+      position: {x: -5.218125, y: 6.135376, z: -2.1994815}
+      rotation: {x: 0.9999795, y: 0.0056883087, z: -0.0014549271, w: -0.0025491884}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: thigh.L_RSL_RETARGET_end
+      parentName: thigh.L_RSL_RETARGET
+      position: {x: -0, y: 42.5844, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -0, y: 9.664871, z: -1.073875}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine1
+      parentName: Spine
+      position: {x: -0, y: 10.672615, z: 7.920331e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine2
+      parentName: Spine1
+      position: {x: -0, y: 9.745018, z: -0.008016229}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine3
+      parentName: Spine2
+      position: {x: -0, y: 9.734146, z: -0.008024335}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftShoulder
+      parentName: Spine3
+      position: {x: -2.982571, y: 7.6456146, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftArm
+      parentName: LeftShoulder
+      position: {x: -14.068449, y: 0, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftForeArm
+      parentName: LeftArm
+      position: {x: -30.140337, y: 0, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftHand
+      parentName: LeftForeArm
+      position: {x: -24.636417, y: 0, z: 9.847678e-13}
+      rotation: {x: 0.00000022155304, y: -0.0000000021148852, z: 0.029288525, w: 0.999571}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand.L_RSL_RETARGET
+      parentName: LeftHand
+      position: {x: -15.767738, y: 3.5600433, z: -1.8266666}
+      rotation: {x: -0.02553505, y: -0.021675056, z: 0.7487184, w: 0.66204154}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: hand.L_RSL_RETARGET_end
+      parentName: hand.L_RSL_RETARGET
+      position: {x: -0, y: 11.33037, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: forearm.L_RSL_RETARGET
+      parentName: LeftForeArm
+      position: {x: -9.19014, y: 7.1989136, z: -3.0226939}
+      rotation: {x: -0.0008299036, y: 0.026198095, z: 0.7468965, w: 0.6644236}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: forearm.L_RSL_RETARGET_end
+      parentName: forearm.L_RSL_RETARGET
+      position: {x: -0, y: 31.448162, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_arm.L_RSL_RETARGET
+      parentName: LeftArm
+      position: {x: -7.999098, y: 19.452332, z: 6.1397223}
+      rotation: {x: -0.062326502, y: -0.117934845, z: 0.81965166, w: 0.55711573}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: upper_arm.L_RSL_RETARGET_end
+      parentName: upper_arm.L_RSL_RETARGET
+      position: {x: -0, y: 34.867622, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.L_RSL_RETARGET
+      parentName: LeftShoulder
+      position: {x: -0.36026955, y: 18.834, z: 9.371027}
+      rotation: {x: -0.6139812, y: 0.35091332, z: 0.35115886, w: 0.61365664}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: shoulder.L_RSL_RETARGET_end
+      parentName: shoulder.L_RSL_RETARGET
+      position: {x: -0, y: 22.032494, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightShoulder
+      parentName: Spine3
+      position: {x: 2.982571, y: 7.6456146, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightArm
+      parentName: RightShoulder
+      position: {x: 14.068449, y: 0, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightForeArm
+      parentName: RightArm
+      position: {x: 30.140337, y: 0, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightHand
+      parentName: RightForeArm
+      position: {x: 24.636417, y: 0, z: 9.847678e-13}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Prop1
+      parentName: RightHand
+      position: {x: 9.043953, y: -1.0048828, z: 2.0097673}
+      rotation: {x: -0.0000050861186, y: -0.00000000421023, z: -0.6723668, w: 0.74021816}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Prop1_end
+      parentName: Prop1
+      position: {x: -0, y: 9.318909, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hand.R_RSL_RETARGET
+      parentName: RightHand
+      position: {x: 16.55857, y: 2.9553986, z: -3.195553}
+      rotation: {x: 0.013976949, y: -0.056997865, z: -0.74822134, w: 0.6608485}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: hand.R_RSL_RETARGET_end
+      parentName: hand.R_RSL_RETARGET
+      position: {x: -0, y: 11.677605, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: forearm.R_RSL_RETARGET
+      parentName: RightForeArm
+      position: {x: 10.262325, y: 5.6209106, z: -8.751481}
+      rotation: {x: 0.031626116, y: -0.090896845, z: -0.73570055, w: 0.6704344}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: forearm.R_RSL_RETARGET_end
+      parentName: forearm.R_RSL_RETARGET
+      position: {x: -0, y: 31.5405, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_arm.R_RSL_RETARGET
+      parentName: RightArm
+      position: {x: 12.762484, y: 16.826935, z: -0.562022}
+      rotation: {x: -0.06460259, y: 0.11753966, z: -0.8227892, w: 0.5522942}
+      scale: {x: 1, y: 1, z: 1}
+    - name: upper_arm.R_RSL_RETARGET_end
+      parentName: upper_arm.R_RSL_RETARGET
+      position: {x: -0, y: 30.929298, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: shoulder.R_RSL_RETARGET
+      parentName: RightShoulder
+      position: {x: -0.18918586, y: 18.835342, z: 10.611335}
+      rotation: {x: -0.61398125, y: -0.3509132, z: -0.35115895, w: 0.6136566}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: shoulder.R_RSL_RETARGET_end
+      parentName: shoulder.R_RSL_RETARGET
+      position: {x: -0, y: 26.76038, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Spine3
+      position: {x: -0, y: 13.63092, z: 0.00000011921031}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Neck
+      position: {x: -0, y: 9.064621, z: 0.017239451}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.005_RSL_RETARGET
+      parentName: Head
+      position: {x: -0, y: 28.40979, z: 3.3807645}
+      rotation: {x: 0.09371199, y: -0.000000118684675, z: -0.000000011171338, w: 0.9955994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.005_RSL_RETARGET_end
+      parentName: spine.005_RSL_RETARGET
+      position: {x: -0, y: 11.132247, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.004_RSL_RETARGET
+      parentName: Neck
+      position: {x: -0, y: 26.55545, z: -0.9340757}
+      rotation: {x: 0.18772952, y: -0.000000117089826, z: -0.000000022379105, w: 0.98222077}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.004_RSL_RETARGET_end
+      parentName: spine.004_RSL_RETARGET
+      position: {x: -0, y: 11.746941, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.003_RSL_RETARGET
+      parentName: Spine3
+      position: {x: -0, y: 17.423035, z: -0.5530673}
+      rotation: {x: -0.014281306, y: -0.00000011919714, z: 0.0000000017024641, w: 0.999898}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: spine.003_RSL_RETARGET_end
+      parentName: spine.003_RSL_RETARGET
+      position: {x: -0, y: 20.374674, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.002_RSL_RETARGET
+      parentName: Spine2
+      position: {x: -0, y: 8.875061, z: 0.020803213}
+      rotation: {x: -0.015908277, y: -0.00000011919418, z: 0.0000000018964132, w: 0.99987346}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: spine.002_RSL_RETARGET_end
+      parentName: spine.002_RSL_RETARGET
+      position: {x: -0, y: 18.291378, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine.001_RSL_RETARGET
+      parentName: Spine1
+      position: {x: -0, y: 4.273712, z: -1.764642}
+      rotation: {x: 0.061593898, y: -0.0000001189829, z: -0.0000000073425626, w: 0.9981013}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: spine.001_RSL_RETARGET_end
+      parentName: spine.001_RSL_RETARGET
+      position: {x: -0, y: 14.456061, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine_RSL_RETARGET
+      parentName: Spine
+      position: {x: -0, y: -0.64849854, z: -5.7850165}
+      rotation: {x: 0.12581962, y: -0.00000011826194, z: -0.000000014998864, w: 0.99205315}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine_RSL_RETARGET_end
+      parentName: spine_RSL_RETARGET
+      position: {x: -0, y: 16.10472, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pelvis.L_RSL_RETARGET
+      parentName: Hips
+      position: {x: -0, y: 1.5216904, z: -9.800434}
+      rotation: {x: -0.086367644, y: 0.7511045, z: 0.3830516, w: 0.5307111}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: pelvis.L_RSL_RETARGET_end
+      parentName: pelvis.L_RSL_RETARGET
+      position: {x: -0, y: 36.811687, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: audifonos.001
+      parentName: walkjjune(Clone)
+      position: {x: -0.05648054, y: 4.106785, z: 0.0057559824}
+      rotation: {x: 0.12925848, y: 0.028994413, z: 0.058519237, w: 0.98945796}
+      scale: {x: 0.15317906, y: 0.392869, z: 0.39286897}
+    - name: audifonos.003
+      parentName: walkjjune(Clone)
+      position: {x: -0.05648054, y: 4.106785, z: 0.0057559824}
+      rotation: {x: 0.12925848, y: 0.028994413, z: 0.058519237, w: 0.98945796}
+      scale: {x: 0.15317906, y: 0.392869, z: 0.39286897}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
