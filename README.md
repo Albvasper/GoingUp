@@ -8,13 +8,13 @@ This game was developed as a two-person collaboration between a programmer (me) 
 
 ## 💻 My Contributions
 
-* Programmed all game systems in Unity using C#
+* Developed all core gameplay systems in Unity using C#, including movement, game state handling, and event logic.
 
-* Designed and implemented player movement and jumping physics
+* Implemented responsive player movement and jump physics to ensure tight and satisfying controls.
 
-* Created UI elements such as the pause menu and respawn logic
+* Designed and programmed in-game UI elements such as the main menu.
 
-* Built event triggers for checkpoints, game state handling, and player feedback
+* Built trigger-based event systems for interactive feedback and level progression.
 
 
 ## 📄 Key Scripts
